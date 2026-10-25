@@ -15,4 +15,3 @@ dist/
 build/
 *.egg-info/
 .data/
-README.md
